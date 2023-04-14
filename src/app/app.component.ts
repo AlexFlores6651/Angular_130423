@@ -7,6 +7,6 @@ import { Component, VERSION } from '@angular/core';
 })
 export class AppComponent {
   name = 'Angular ' + VERSION.major;
-  marca: string = 'Honda';
-  modelo: string = 'crossover';
+  marca: string = 'Hyundai';
+  modelo: string = 'Atos';
 }
